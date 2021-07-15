@@ -1,0 +1,3 @@
+1- All database schmae  ...... DONE [database setup in file ScopicAuction-script.sql]
+2- All the Back-End operations  ...... DONE [ except the bot feature, and a bug at the time-countdown]
+3- The Front-End operations ...... DONE [ except missing good look and formating and may be some validation ]
